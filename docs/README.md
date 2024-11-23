@@ -1,1 +1,0 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ma%E1%B8%A5m%C5%ABd_al-K%C4%81%C5%A1%C4%A1ar%C4%AB%2C_Wax.jpg/800px-Ma%E1%B8%A5m%C5%ABd_al-K%C4%81%C5%A1%C4%A1ar%C4%AB%2C_Wax.jpg" style="width:400px;border-radius:50%"/>
